@@ -1,0 +1,10 @@
+{
+  "version": "2.0.18",
+  "upload_date": "2026-06-07 17:19:58",
+  "upload_by": "login-screen",
+  "period": "ខែមុន (01/05/2026 - 31/05/2026)",
+  "patient_count": 0,
+  "edited_cloud_file": "clinic_01-05-2026_to_31-05-2026.db",
+  "cloud_backup": "C:\\Users\\PC\\AppData\\Local\\ClinicManager\\backups\\cloud_before_edit_clinic_01-05-2026_to_31-05-2026_20260607_171749.db",
+  "note": "Cloud data edited from uploaded database"
+}
