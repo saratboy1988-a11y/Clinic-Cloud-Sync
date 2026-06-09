@@ -1,10 +1,10 @@
 {
   "version": "2.1.2",
-  "upload_date": "2026-06-09 08:32:12",
+  "upload_date": "2026-06-09 08:33:20",
   "upload_by": "sarat1",
-  "period": "ខែមុន (01/05/2026 - 31/05/2026)",
+  "period": "Cloud file ចុងក្រោយ",
   "patient_count": 0,
   "edited_cloud_file": "clinic_01-05-2026_to_31-05-2026.db",
-  "cloud_backup": "C:\\Users\\PC\\AppData\\Roaming\\ClinicManager\\backups\\cloud_before_edit_clinic_01-05-2026_to_31-05-2026_20260609_083136.db",
+  "cloud_backup": "C:\\Users\\PC\\AppData\\Roaming\\ClinicManager\\backups\\cloud_before_edit_clinic_01-05-2026_to_31-05-2026_20260609_083242.db",
   "note": "Cloud data edited from uploaded database"
 }
