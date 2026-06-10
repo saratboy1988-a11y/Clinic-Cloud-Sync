@@ -1,8 +1,10 @@
 {
-  "version": "2.1.2",
-  "deleted_date": "2026-06-09 08:41:45",
-  "deleted_by": "sarat1",
-  "deleted_file": "clinic_01-05-2026_to_31-05-2026.db",
-  "period": "ខែមុន (01/05/2026 - 31/05/2026)",
-  "note": "Cloud data file deleted from application"
+  "version": "2.1.5",
+  "upload_date": "2026-06-10 21:46:38",
+  "upload_by": "sn1",
+  "period": "ខែនេះ (01/06/2026 - 30/06/2026)",
+  "start_date": "01/06/2026",
+  "end_date": "30/06/2026",
+  "patient_count": 158,
+  "note": ""
 }
