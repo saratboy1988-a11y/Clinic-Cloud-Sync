@@ -1,30 +1,15 @@
 {
-  "app_version": "2.1.5",
+  "app_version": "2.1.6",
   "format": "ClinicManagerRolePolicy",
-  "issued_at": "2026-06-27T08:02:54Z",
+  "issued_at": "2026-06-27T09:05:47Z",
   "issued_by": "admin",
-  "signature": "CmUXZzDn+hlnMOhIRBDbfbR+Nagc+XijbzpVl8SzRp8V6cAAbG2JPXe83tlCije3GeLL6e+igo2hdDPgzQNMBw==",
+  "signature": "ImZV89qs6d421X5C+QJXHcdp1bYArVWtEuVLIlQCw3tO0dF4TZGBnmq3WExb6WLFinW1OAud3yCO9KX+JMttAA==",
   "signature_algorithm": "ed25519",
   "users": [
     {
       "branch_code": "ALL",
       "role": "admin",
       "username": "admin"
-    },
-    {
-      "branch_code": "MAIN",
-      "role": "user",
-      "username": "H150220"
-    },
-    {
-      "branch_code": "MAIN",
-      "role": "user",
-      "username": "nousarat"
-    },
-    {
-      "branch_code": "MAIN",
-      "role": "user",
-      "username": "sarat"
     },
     {
       "branch_code": "H150220",
